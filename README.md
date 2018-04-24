@@ -9,4 +9,4 @@ Links to the working web applications can be found in the short descriptions for
 
 The JavaScript examples also contain links to my CodePen where they demonstrate functionality. These links are also found in the short description and within the comments of the HTML files.
 
-The Java projects contain the functioning code, but will have to be exported to an IDE in order to view the output. Examination of the code itself should provide insight into my thought process and style.
+The Java projects contain the functioning code, but will have to be exported to an IDE in order to view the output. Examination of the code itself will hopefully provide insight into my thought process and style.
