@@ -1,5 +1,5 @@
 # Public-Portfolio
-Includes samples of my coding projects that showcase my knowledge and level of skill pertaining to various programming languages
+Includes examples of my coding projects that showcase my knowledge and level of skill pertaining to various programming languages
 
 Thank you for taking a look at the various projects I have worked on over the past few years! I have included in the portfolio projects that I felt were noteworthy or that display a variety of skills associated with each programming language.
 
